@@ -11,6 +11,8 @@ Este projeto implementa um sistema de recomendação de filmes baseado em simila
 3. Treinamento do modelo: O modelo KNN foi treinado utilizando a matriz esparsa.
 4. Geração de recomendações: O modelo é capaz de gerar recomendações de filmes para um usuário específico com base nas preferências de usuários similares.
 
+**LINK PARA ACESSO DA BASE DA DADOS: https://drive.google.com/drive/folders/18mCm1022MPklBST5k4eDGrLq7Y4hjZ-a?usp=drive_link**
+
 ## Tecnologias usadas
 - Python
 - Pandas
