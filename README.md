@@ -13,9 +13,27 @@ Este projeto implementa um sistema de recomendação de filmes baseado em simila
 
 **LINK PARA ACESSO DA BASE DA DADOS: https://drive.google.com/drive/folders/18mCm1022MPklBST5k4eDGrLq7Y4hjZ-a?usp=drive_link**
 
-## Tecnologias usadas
+## **Tecnologias usadas:**
 - Python
 - Pandas
 - Numpy
 - Scikit-Learn
 
+###English Version
+
+This project implements a movie recommendation system based on user similarity. Using the MovieLens dataset, the KNN (K-Nearest Neighbors) model is trained to suggest movies to a user based on the preferences of other similar users. Data preprocessing includes cleaning, filtering, and creating a sparse matrix to represent user ratings.
+
+**Process:**
+
+- Data collection and preparation: Data was obtained from the MovieLens dataset and preprocessed to remove missing values and inconsistencies.
+- Creation of the user-item matrix: A sparse matrix was created to represent user ratings for each movie.
+- Model training: The KNN model was trained using the sparse matrix.
+- Recommendation generation: The model is able to generate movie recommendations for a specific user based on the preferences of similar users.
+
+**LINK TO ACCESS THE DATABASE: https://drive.google.com/drive/folders/18mCm1022MPklBST5k4eDGrLq7Y4hjZ-a?usp=drive_link**
+
+## **Technologies used:**
+- Python
+- Pandas
+- NumPy
+- Scikit-learn
