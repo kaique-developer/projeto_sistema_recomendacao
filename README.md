@@ -2,7 +2,7 @@
 
 ## Sistema de Recomendação de Filmes
 
-Este repositório apresenta um sistema de recomendação de filmes desenvolvido em Python, utilizando as bibliotecas Pandas e Scikit-learn. O modelo de recomendação é baseado na técnica de filtragem colaborativa, especificamente o algoritmo KNN.
+Este projeto implementa um sistema de recomendação de filmes baseado em similaridade de usuários. Utilizando o conjunto de dados MovieLens, o modelo KNN (K-Nearest Neighbors) é treinado para sugerir filmes a um usuário com base nas preferências de outros usuários similares. O pré-processamento dos dados inclui a limpeza, filtragem e criação de uma matriz esparsa para representar as avaliações dos usuários.
 
 **Processo**:
 
