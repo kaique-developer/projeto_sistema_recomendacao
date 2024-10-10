@@ -19,7 +19,7 @@ Este projeto implementa um sistema de recomendação de filmes baseado em simila
 - Numpy
 - Scikit-Learn
 
-###English Version
+### English Version
 
 This project implements a movie recommendation system based on user similarity. Using the MovieLens dataset, the KNN (K-Nearest Neighbors) model is trained to suggest movies to a user based on the preferences of other similar users. Data preprocessing includes cleaning, filtering, and creating a sparse matrix to represent user ratings.
 
